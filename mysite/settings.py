@@ -25,7 +25,7 @@ SECRET_KEY = '4%bm6a#)uz(0bzbw&*p1)j^0brn!l*24jg1bt=d$_k!&mlzig7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '.redmist.kr']
+ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
 
 
 # Application definition
